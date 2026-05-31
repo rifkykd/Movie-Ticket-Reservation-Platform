@@ -1,0 +1,13 @@
+ACTION|MOV001|Mad Max: Fury Road|Action|120|English|R|No Longer Showing|Extreme|d5a4708e-a982-4c47-b6aa-266df47d1614.jpg
+COMEDY|MOV002|The Mask|Comedy|101|English|PG|Now Showing|Slapstick|3a614fc5-6b1b-4b1e-84a8-a4f8c8453c20.jpg
+GENERAL|MOV003|Inception|Thriller|148|English|PG-13|Now Showing|N/A|118edd09-323f-452c-87bd-0a7a4dcd3189.jpeg
+ACTION|MOV004|Avengers: Endgame|Action|181|English|PG-13|No Longer Showing|High|84e97168-0ca3-4c0b-97a9-8ed288cd6fdb.jpg
+COMEDY|MOV005|Knives Out|Comedy|130|English|PG-13|Coming Soon|Satire|bfaac88b-ef71-4c33-ab64-ac74db7292b8.jpeg
+GENERAL|MOV006|Parasite|Drama|132|Korean|R|Now Showing|N/A|5d74caed-6018-4177-9293-6231e5ef3bb5.jpeg
+ACTION|MOV007|John Wick|Action|101|English|R|Now Showing|High|8da3a184-40f3-4ded-9ada-fce100574b19.jpeg
+GENERAL|MOV008|The Lion King|Animation|88|English|G|Now Showing|N/A|5a0fe372-f202-4761-a926-1e855cea6a3d.jpg
+COMEDY|MOV009|Crazy Rich Asians|Comedy|120|English|PG-13|Coming Soon|Romantic|84851f21-2c11-4572-8621-89b7b7bbb6b2.jpg
+GENERAL|MOV010|Dune|Sci-Fi|155|English|PG-13|Now Showing|N/A|14636978-c3b4-4577-903c-245c928a3f13.jpeg
+GENERAL|MOV011|jaws|Horror|120|English|R|Coming Soon|N/A|1d3b3527-5dd7-46c8-8c80-1508d62cc7c1.jpg
+GENERAL|MOV012|The Godfather|Drama|177|English|R|Now Showing|N/A|00839784-0a94-43d2-8584-b5701ca1a7e9.jpg
+GENERAL|MOV013|F1|Thriller|180|English|G|Coming Soon|N/A|945ba096-c875-4c77-b9b8-ddab84274ab9.jpg

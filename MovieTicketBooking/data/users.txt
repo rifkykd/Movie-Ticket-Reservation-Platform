@@ -1,0 +1,14 @@
+A001|admin|admin@cinebook.com|admin123|System Admin|0700000000|ADMIN|What is the name of this system?|cinebook|ACTIVE|Management
+U001|john_perera|john@email.com|pass123|John Perera|0771234567|CUSTOMER|What is your favourite movie?|inception|ACTIVE|2
+U002|sara_silva|sara@email.com|sara456|Sara Silva|0762345678|CUSTOMER|What is your pet name?|buddy|ACTIVE|0
+U003|tharuka|adikaritharuka@gmail.com|password|tharuka adikari|0705805208|CUSTOMER|What is the name of your first pet?|sgpt|ACTIVE|0
+U004|cat|cat@gmail.com|123456|cat|0716510419|CUSTOMER|What is the name of your first pet?|sgpt|ACTIVE|0
+U005|sample|sample@gmail.com|sample|sample2|0705805208|CUSTOMER|What is the name of your first pet?|cat|DEACTIVATED|0
+U006|pavithra|pavithra@gmail.com|pavithra|pavithra123|12345|CUSTOMER|What is the name of your first pet?|cat|ACTIVE|0
+U007|test|test@gamail.com|test|test|0705805208|CUSTOMER|What is the name of your first pet?|sgpt|DEACTIVATED|0
+U008|trial|pichupikachu859@gmail.com|trial|Saman Ranthnayaka|0777618935|CUSTOMER|What is the name of your first pet?|sgpt|ACTIVE|0
+U009|security|it25100859@my.sliit.lk|security|security|123456789|CUSTOMER|N/A|N/A|ACTIVE|0
+U010|kalsara|it25101497@gmail.com|kalsara|kalsara|123456789|CUSTOMER|N/A|N/A|ACTIVE|0
+U011|Kala|malishakalsara4@gmail.com|Kala@497|KALSARA MALEESHA HERATH|+94771315951|CUSTOMER|N/A|N/A|ACTIVE|0
+U012|Sas|cineflix.1kbusiness@gmail.com|Sas@1234|Sasmitha Kaveesha|+94771315951|CUSTOMER|N/A|N/A|ACTIVE|0
+U013|rifky|it25102825@my.sliit.lk|123456|Mohammed Rifky|+94766004135|CUSTOMER|N/A|N/A|ACTIVE|0
