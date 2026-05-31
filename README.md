@@ -103,8 +103,6 @@ src/
 ```
 
 ### Some Screenshots
-![MovieCatalog](samples/1.png)
-![LoginPage](samples/2.png)
-![BookingLayout](samples/3.png)
-![Payment](samples/4.png)
+![MovieCatalog](samples/1.png) ![LoginPage](samples/2.png)
+![BookingLayout](samples/3.png) ![Payment](samples/4.png)
 
